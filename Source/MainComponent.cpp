@@ -16,6 +16,7 @@ MainComponent::~MainComponent()
 {
     shutdownAudio();
 }
+//صاشف
 
 void MainComponent::prepareToPlay(int samplesPerBlockExpected, double sampleRate)
 {
